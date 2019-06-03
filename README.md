@@ -5,3 +5,6 @@ In this project, we used Sentiment Analysis to evaluate sentiment of tweets and 
 This Paper covers the available techniques and development in the recent history of Web Scraping. Legal aspects of Web Scraping have been introduced. Software tools used for this technique are listed with a brief summary of their functionalities.
 We would emphasize the importance of Open Data and social media data such as Twitter as a scraping target.
 Keywords—Data Science, web scraping, twitter data, open data, sentiment analysis.
+
+
+## Code and report is present in the developer branch
